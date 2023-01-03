@@ -1,0 +1,2 @@
+Iteration_No,From Clinic,To Clinic,Amount of doses transferred,Quantity before transfer,Quantity after transfer,Flow Result
+1,Automation Supply Location_1,Automation Supply Location_2,1.0,16911.83,16910.83,Pass

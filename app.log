@@ -1,0 +1,6 @@
+24/09/2021 07:30:12 AM - INFO - log - Current google-chrome version is 93.0.4577
+24/09/2021 07:30:12 AM - INFO - log - Get LATEST driver version for 93.0.4577
+24/09/2021 07:30:12 AM - INFO - log - There is no [win32] chromedriver for browser 93.0.4577 in cache
+24/09/2021 07:30:12 AM - INFO - log - Get LATEST driver version for 93.0.4577
+24/09/2021 07:30:12 AM - INFO - log - Trying to download new driver from http://chromedriver.storage.googleapis.com/93.0.4577.63/chromedriver_win32.zip
+24/09/2021 07:30:13 AM - INFO - log - Driver has been saved in cache [C:\Users\saislam\.wdm\drivers\chromedriver\win32\93.0.4577.63]
